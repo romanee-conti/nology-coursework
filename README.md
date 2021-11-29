@@ -1,1 +1,1 @@
-# nology-coursework
+# nology-coursework - a repository to store all my project work for my web developer course with _nology.
